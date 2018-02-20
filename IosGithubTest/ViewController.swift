@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
 
     var b = 2
+    var c = 4
     
     override func viewDidLoad() {
         super.viewDidLoad()
