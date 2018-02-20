@@ -15,6 +15,8 @@ class ViewController: UIViewController {
     
     var changesInFirstBRanch = 1
     
+    var changesAfterMerge = 1
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
