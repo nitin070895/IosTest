@@ -16,6 +16,8 @@ class ViewController: UIViewController {
     var changesInMaster = 1
     var changesInFirstBRanch = 1
     
+    var changesInFromGithubBranch = 1
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
