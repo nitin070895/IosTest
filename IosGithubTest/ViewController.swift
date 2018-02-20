@@ -14,6 +14,7 @@ class ViewController: UIViewController {
     var c = 4
     
     var changesInMaster = 1
+    var changesInFirstBRanch = 1
     
     override func viewDidLoad() {
         super.viewDidLoad()
