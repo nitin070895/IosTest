@@ -13,6 +13,8 @@ class ViewController: UIViewController {
     var b = 2
     var c = 4
     
+    var changesInFirstBRanch = 1
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
